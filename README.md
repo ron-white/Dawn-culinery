@@ -5,7 +5,7 @@
 
   <h2 align="center">DAWN - Restaurant Website</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  DAWN is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="#"><strong>➥ Live Demo</strong></a>
 
@@ -39,9 +39,7 @@ Windows:
 git clone 
 ```
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter]
 
 ### License
 
